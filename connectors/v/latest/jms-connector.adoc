@@ -167,7 +167,7 @@ For more information regarding the `generic-connection` or `jndi-connection-fact
 
 == Setting Up The Connetion Required Libraries
 
-NOTE: No matter what tipe of connection you are using, you`ll always need to configure a library containing the *JMS client implementation*, since the connector is not bound to any particular implementation.
+NOTE: No matter what type of connection you are using, you`ll always need to configure a library containing the *JMS client implementation*, since the connector is not bound to any particular implementation.
 
 === ActiveMQ External Libraries
 
